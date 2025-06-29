@@ -24,10 +24,10 @@ This is an intuitive Single Page Application (SPA) that helps users keep track o
 ## Features
 
 1. Full CRUD Functionality: All essential operations are implemented:
-  - Create: Add new tasks via an input field.
-  - Read: Display the list of all tasks.
-  - Update: Edit the text of existing tasks and mark them as complete.
-  - Delete: Remove individual tasks.
+    - Create: Add new tasks via an input field.
+    - Read: Display the list of all tasks.
+    - Update: Edit the text of existing tasks and mark them as complete.
+    - Delete: Remove individual tasks.
 2. Task Filtering: Users can filter tasks by three categories: "All," "Active," and "Completed."
 3. Task Counter: The footer displays a count of the remaining active (uncompleted) tasks.
 4. Clear Completed: A "Clear completed" button allows for the removal of all finished tasks at once.

@@ -4,7 +4,7 @@ This is a classic "To-Do App" web application built with the React library. This
 
 ## Live Demo
 
-Experience the live website: [Art Museum](https://manch0ffline.github.io/todo-app-react-project/)
+Experience the live website: [To-Do App](https://manch0ffline.github.io/todo-app-react-project/)
 
 # Project Description
 
